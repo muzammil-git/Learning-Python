@@ -24,4 +24,4 @@ Welcome to the "Learning Python" repository! This collection of Python scripts c
 
 
 Resources Used:
-[FreeCodeCamp](https://youtu.be/jBzwzrDvZ18?si=mfAXksQ4nHl6n84x)
+[FreeCodeCamp](https://youtu.be/jBzwzrDvZ18?si=mfAXksQ4nHl6n84x) | Time Range (0:00 - 3:38:00)
