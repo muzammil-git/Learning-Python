@@ -1,4 +1,6 @@
-# Learning Python
+<img src="https://github.com/muzammil-git/learning_python/assets/54685589/3c69e529-515c-47b4-959d-fcc6f1756c61" width="300" alt="Circle Woman">
+
+# Learning Python with Circle Woman !
 
 Welcome to the "Learning Python" repository! This collection of Python scripts covers a variety of fundamental topics to help build a foundation in Python programming.
 
@@ -20,3 +22,6 @@ Welcome to the "Learning Python" repository! This collection of Python scripts c
 14. **[14_inheritance.py](14_inheritance.py):** Understanding and implementing inheritance in classes.
 15. **[15_simple_login.py](15_simple_login.py):** Development of a simple login system using Python.
 
+
+Resources Used:
+[FreeCodeCamp](https://youtu.be/jBzwzrDvZ18?si=mfAXksQ4nHl6n84x)
